@@ -1,0 +1,7 @@
+{
+  "name": "sudoku_verifier",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "Artur Shestopalov <harfild1@gmail.com>",
+  "license": "MIT"
+}
