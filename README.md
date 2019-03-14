@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains source code for the web application for the `Phone.loc` company.
+This repository contains source code for the sudoku verifier
 
 ## Local Development
  - `yarn install`
